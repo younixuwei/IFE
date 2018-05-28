@@ -1,5 +1,8 @@
 <template>
-    <div class="hello">{{msg}}</div>
+   <section>
+        <div class="hello">{{msg}}</div>
+        <img src="./images/fa.jpg" alt="">
+    </section>
 </template>
 
 <script>
@@ -14,6 +17,6 @@
 
 <style>
     .hello {
-        color: blue;
+        color: white;
     }
 </style>
